@@ -1,8 +1,9 @@
 [
   {
-    "id": 1744800851705,
-    "description": "밥 먹기",
-    "category": "밥",
+    "title": "공부하기",
+    "due": "2025-05-15",
+    "category": "개인",
+    "priority": "높음",
     "completed": false
   }
 ]
